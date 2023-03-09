@@ -1,0 +1,1 @@
+acronyms = ["LOL","IDK","SMH","TBH"]
